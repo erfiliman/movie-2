@@ -7,6 +7,7 @@ import MoviePage from "./Components/MoviePage/MoviePage";
 import PopularFilms from "./Components/PopularFilms/PopularFilms";
 import TopFilms from "./Components/TopFilms/TopFilms";
 import SearchPage from "./Components/SearchPage/SearchPage";
+import QuizPage from "./Components/QuizPage/QuizPage";
 import Quiz from "./Components/QuizPage/Quiz";
 
 function App() {

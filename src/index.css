@@ -538,8 +538,8 @@ a, a:hover, a:active, a:visited {
 }
 
 .loading-icon {
-  width: 40px;
-  height: 40px;
+  width: 28px;
+  height: 28px;
   background-image: url("img/loading_spinner.svg");
   background-size: contain;
   margin: 0 auto;
@@ -737,7 +737,6 @@ a, a:hover, a:active, a:visited {
 
 .movie-page-description {
   max-height: 100px;
-  min-height: 100px;
   overflow: auto;
 }
 
@@ -914,14 +913,7 @@ a, a:hover, a:active, a:visited {
 
 .main-load {
   display: flex;
-  width: 100%;
   justify-content: center;
-  align-items: center;
-}
-
-.main-load .loading-icon {
-  position: relative;
-  top: -65px;
 }
 
 .movie-row-container {
